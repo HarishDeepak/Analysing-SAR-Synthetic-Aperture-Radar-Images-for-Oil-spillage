@@ -4,12 +4,6 @@ Design and implementation of multiple image segmentation algorithms for automati
 
 ![SAR Image](https://user-images.githubusercontent.com/96207365/183258716-74fe57a6-8c97-4d98-97e3-ff2ea7b8d79a.jpg)
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://HarishDeepak.github.io)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishdeepak/)
-[![GitHub last commit](https://img.shields.io/github/last-commit/HarishDeepak/Analysing-SAR-Synthetic-Aperture-Radar-Images-for-Oil-spillage)](https://github.com/HarishDeepak/Analysing-SAR-Synthetic-Aperture-Radar-Images-for-Oil-spillage)
-
-B.Tech. student in Electronics and Communication Engineering. See other projects on [GitHub](https://github.com/HarishDeepak).
-
 ---
 
 ## Problem Overview
